@@ -1,6 +1,7 @@
 # Approval Based Budgeting method
 Understanding the proportional-greedy rule with the second satisfaction function and
 coding the rule in python, running it on the selected dataset and reporting the outcomes set and its total utility.
+Done as part of Algorithmic game theory.
 # Procedure
 1) The main data set is divided into two csv files namely "PROJECTSagt.csv" and "VOTESagt.csv". They hold information related to projects and votes respectively.
 2) In the first 41 lines of the code The required datasets are separated and stored.
